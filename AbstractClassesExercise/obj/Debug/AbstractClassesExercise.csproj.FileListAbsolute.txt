@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\bin\Debug\AbstractClassesExercise.exe.config
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\bin\Debug\AbstractClassesExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\bin\Debug\AbstractClassesExercise.pdb
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\obj\Debug\AbstractClassesExercise.csprojResolveAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\obj\Debug\AbstractClassesExercise.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\obj\Debug\AbstractClassesExercise.exe
+E:\Coding\Visual Studio\Projects\The Tech Academy\AbstractClassesExercise\AbstractClassesExercise\obj\Debug\AbstractClassesExercise.pdb
